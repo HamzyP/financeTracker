@@ -9,7 +9,7 @@ I built this because I wanted a “just‑drag‑in‑your‑bank‑CSV” app t
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/finance-tracker.git
+git clone https://github.com/HamzyP/finance-tracker.git
 cd finance-tracker
 python main.py      # needs Python 3.10+ and Tk installed
 ```
