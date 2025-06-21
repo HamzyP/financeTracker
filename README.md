@@ -59,7 +59,7 @@ finance-tracker/
 
 ## Customising (if you’re that person)
 
-Open `config.py` and tweak the `settings` dict — font, theme, heading size.  
+Open `settings.csv` or/and `config.py` and tweak the `settings` dict — font, theme, heading size.  
 Colours live in `theme_settings`. Go nuts.
 
 ---
